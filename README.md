@@ -14,6 +14,38 @@
 **1.在我的库中下载HttpCanary专业版,并且安装，自行下载mt管理器**
   
 **2.安装CA证书**
+
+  （1）打开HttpCanary黄鸟
+  
+  （2）![Screenshot_2025-11-28-17-03-23-770_com guoshi httpcanary-edit](https://github.com/user-attachments/assets/b4732506-b1fc-4838-9fc1-968863c8bb1c)
+  
+  （3）![Screenshot_2025-11-28-17-04-30-256_com guoshi httpcanary-edit](https://github.com/user-attachments/assets/b9c28a68-7aab-46ae-a7c3-42414d7061eb)
+  
+  （4）![Screenshot_2025-11-28-17-05-28-780_com guoshi httpcanary-edit](https://github.com/user-attachments/assets/5eff851f-1ad8-4c6d-9bc9-a486c5f0fb16)
+  
+  （5）![Screenshot_2025-11-28-17-06-43-797_com guoshi httpcanary-edit](https://github.com/user-attachments/assets/b12496dc-acb7-4143-b0b2-06fc99f44437)
+  
+  （6）![Screenshot_2025-11-28-17-07-12-488_com guoshi httpcanary-edit](https://github.com/user-attachments/assets/b4b2a7bf-cd3c-4d37-9da3-1d71565204b9)
+
+  （7）打开手机的设置
+  
+  （8）![b9b33233eb3940c6cb5c5d89f4d09a1e](https://github.com/user-attachments/assets/0bc3ac4a-79f1-4e66-88f3-b0c405e9b552)
+  
+  （9）![043abab511bf3d14e1614e78634a003c](https://github.com/user-attachments/assets/c5ffe24a-3a67-48de-a9e4-4eefe985d6f4)
+
+  （10）![3cb9cdaf186142d64aac4a2d0c1d6d69](https://github.com/user-attachments/assets/3e23c991-68b9-4058-84b3-cd4f576a6173)
+
+  （11）![096f8586de472134f426b84682bc2d28](https://github.com/user-attachments/assets/5023e255-708e-4a49-a7ce-e48364121ec5)
+  
+  （12）![9793ed75f8d9d89af03b0ba11fe49a15](https://github.com/user-attachments/assets/40119fc0-8947-4687-af39-6225f7ad6182)
+
+  （13）![b06b310df990b06fb2876dec29e01335](https://github.com/user-attachments/assets/b56d2b90-bb2d-4e5c-91e8-8387f2e64ae0)
+
+  （14）![8f18835a53f9c59f8819ed49489606fa](https://github.com/user-attachments/assets/6b90d0f5-a954-43a8-9e12-6602c6fa0b76)
+  
+  （15）![00de8bea652ecb74e31943a2e2dbbe53](https://github.com/user-attachments/assets/0c687684-f904-491f-afdc-0a204d9cb285)
+  
+  （16）![1c7609327a628f5276df37a0c0897466](https://github.com/user-attachments/assets/357f3c35-95ea-43bf-b2c4-4295d55c4437)
   
 **3.使用黄鸟，抓取点击"结束洗澡"发出的数据包**
   
