@@ -48,13 +48,55 @@
   （16）![1c7609327a628f5276df37a0c0897466](https://github.com/user-attachments/assets/357f3c35-95ea-43bf-b2c4-4295d55c4437)
   
 **3.使用黄鸟，抓取点击"结束洗澡"发出的数据包**
-  
-**4.找到具体是哪一个数据包发出洗了多少钱**
-  
-**5.重写，创建规则**
-  长按该数据包，点重写，起一个的名字，右上角下一步，选到请求里面，最下面有一个跟随客户端，点击跟随客户端右边的笔编辑，选择规则替换
 
-**6.写规则之前，我们要分析一下这个数据包，关于个人敏感信息我打成x了**
+  （0）如果遇到，搜索界面，没有任何软件，也搜索不到，就是没有给与读取应用列表权限，请自行去设置更改
+  
+  （1）打开HttpCanary黄鸟
+  
+  （2）![Screenshot_2025-11-28-17-03-23-770_com guoshi httpcanary-edit](https://github.com/user-attachments/assets/1cef63be-44fe-482e-86d3-32ba264abc43)
+  
+  （3）![f0fb8d43416585a156785c86a2b50379](https://github.com/user-attachments/assets/eae64310-d182-46c7-9ada-52c8bb592788)
+  
+  （4）![cf73c65c9facf7580e97ef7ebdf1a386](https://github.com/user-attachments/assets/baf5a2ab-381c-470c-8c3c-a1f377d1fcae)
+  
+  （5）![99e2b2c7f362651a05ceb6fb759ad59a](https://github.com/user-attachments/assets/6247eb9c-98f2-4cf0-b39d-19b707f2fea3)
+  
+  （6）![50dfc09a91c6312c6097b6fc291f598e](https://github.com/user-attachments/assets/80cc2454-6cff-4e6e-8586-224951630ddb)
+
+  （7）接下来，进入智校乐，进入洗澡模式开始洗澡并结束洗澡，再返回HttpCanary黄鸟，点击下面绿色的纸飞机图标，结束抓包
+  
+   ![Screenshot_2025-11-28-19-02-31-57_265eefe1b4d950c](https://github.com/user-attachments/assets/227d9dc7-f97b-48ba-8a6d-9c3b8759b45a)
+ 
+**4.找到具体是哪一个数据包发出洗了多少钱**
+
+  （1）![IMG_20251128_190813](https://github.com/user-attachments/assets/6766891f-e513-44dc-8429-c258a67b2bde)
+
+**5.重写，创建规则，完成**
+
+  (1)长按该数据包
+
+ （2）![Screenshot_2025-11-28-19-02-31-57_265eefe1b4d950c](https://github.com/user-attachments/assets/227d9dc7-f97b-48ba-8a6d-9c3b8759b45a)
+ 
+ （3） ![Screenshot_2025-11-28-19-02-31-57_265eefe1b4d950c](https://github.com/user-attachments/assets/227d9dc7-f97b-48ba-8a6d-9c3b8759b45a)
+ 
+ （4）![IMG_20251128_191959](https://github.com/user-attachments/assets/7fdd4c53-6feb-412c-a25f-97aadfe198c8)
+ 
+ （5）![IMG_20251128_192144](https://github.com/user-attachments/assets/617e4e2f-6178-4de6-ad73-96bf75451916)
+ 
+ （6）点击下面的加号，创建两个这样的
+ 
+ （7）![IMG_20251128_192928](https://github.com/user-attachments/assets/4797bd09-c920-41fa-9b9a-62390a79a48e)
+ 
+ （8）![IMG_20251128_192928](https://github.com/user-attachments/assets/1fa46d05-4871-4126-92f0-6053b71b831f)
+
+ （9）![IMG_20251128_193633](https://github.com/user-attachments/assets/54ffe49a-d9f8-42d4-890f-ebcb3f2cab96)
+ 
+ （10）![IMG_20251128_193817](https://github.com/user-attachments/assets/d4812ae4-e7ce-4b39-889a-21c981f8843a)
+**6.重写，创建规则，完成**
+# 使用方法
+**每次使用，先打开HttpCanary黄鸟，点击下面绿色的纸飞机图标，开始抓包，就可以正常使用智校乐，就会是0元计费了**
+# 附加（上面的更改基于大众传媒的水表，其他学校可能没有效果，可以根据下面这些进行一定的更改）
+**7.关于个人敏感信息我打成x了**
 ```
 用户身份信息
 
