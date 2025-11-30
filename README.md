@@ -85,8 +85,8 @@
  
  （6）点击下面的加号，创建两个这样的
  
- （7）![IMG_20251128_192928](https://github.com/user-attachments/assets/4797bd09-c920-41fa-9b9a-62390a79a48e)
- 
+ （7）![IMG_20251128_193025](https://github.com/user-attachments/assets/af9e749e-d444-4003-b7c5-176e56804a8e)
+
  （8）![IMG_20251128_192928](https://github.com/user-attachments/assets/1fa46d05-4871-4126-92f0-6053b71b831f)
 
  （9）![IMG_20251128_193633](https://github.com/user-attachments/assets/54ffe49a-d9f8-42d4-890f-ebcb3f2cab96)
